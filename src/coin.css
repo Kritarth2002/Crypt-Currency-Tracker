@@ -27,6 +27,7 @@
   margin-right: 10px;
 }
 .coin-symbol {
+  margin-left:250px;
   text-transform: uppercase;
 }
 .coin-data {
